@@ -14,3 +14,18 @@ color: aliceblue;
 border-radius: 10%;
 transition: 1s all ease-in-out;
 }
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  .card {
+    margin: 10px; /* Adjust as needed */
+  }
+  .rakkas-regular {
+    font-family: "Rakkas", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
